@@ -6,9 +6,7 @@ let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 let krtu = `☰⃟⟣⟔ Yᴏᴜʀ Cᴀʀᴅ Iɴᴛʀᴏ ⟓⟢⃟
 ┇⃟⟣⟜ *Nama:* 
 ┇⃟⟣⟜ *Umur:* 
-┇⃟⟣⟜ *Alamat:*
 ┇⃟⟣⟜ *Hobi:*
-┇⃟⟣⟜ *Pasangan:*
 ┖┈┈┈╼╸╸╸╴╴╴ ╳
 `
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
